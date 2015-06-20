@@ -1,0 +1,2 @@
+# jvimrc
+Own VIM rc
